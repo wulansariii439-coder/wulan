@@ -1,11 +1,11 @@
  // Daftar produk dengan gambar
 const products= [
-    { id: 1, name: 'CHOPIE', price: 2000, img: 'chopie.jpg' },
-    { id: 2, name: 'COCA-COLA', price: 1000, img: 'cocacola.jpg' },
-    { id: 3, name: 'NABATI', price: 2000, img: 'nabati.jpg' },
-    { id: 4, name: 'OREO MINI', price: 2000, img: 'oreo mini.jpge' },
-    { id: 5, name: 'TICTAC', price: 2000, img: 'tictac.jpg' },
-    { id: 6, name: 'TEH PUCUK', price: 2000, img: 'teh pucuk.jpg' },
+    { id: 1, name: 'COCOBIT', price: 2000, img: 'cocobit.jpg' },
+    { id: 2, name: 'GERY', price: 1000, img: 'gery.jpg' },
+    { id: 3, name: 'JAPOTA', price: 2000, img: 'japota.jpg' },
+    { id: 4, name: 'KENTANG GORENG', price: 2000, img: 'kentanggoreng.jpge' },
+    { id: 5, name: 'SOYJOY', price: 2000, img: 'soyjoy.jpg' },
+    { id: 6, name: 'SPRITE', price: 2000, img: 'sprite.jpg' },
 
 
 ];
