@@ -3,7 +3,7 @@ const products= [
     { id: 1, name: 'COCOBIT', price: 2000, img: 'cocobit.jpg' },
     { id: 2, name: 'GERY', price: 1000, img: 'gery.jpg' },
     { id: 3, name: 'JAPOTA', price: 2000, img: 'japota.jpg' },
-    { id: 4, name: 'KENTANG GORENG', price: 2000, img: 'kentanggoreng.jpge' },
+    { id: 4, name: 'KENTANG GORENG', price: 2000, img: 'kentanggoreng.jpg' },
     { id: 5, name: 'SOYJOY', price: 2000, img: 'soyjoy.jpg' },
     { id: 6, name: 'SPRITE', price: 2000, img: 'sprite.jpg' },
 
